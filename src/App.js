@@ -70,7 +70,7 @@ const App = () => {
 
   return (
     <div className="w-full  pb-12 antialiased bg-white">
-      <div className=" flex items-center justify-center flex-col gap-24 mx-auto ">
+      <div className=" flex items-center justify-center flex-col gap-14 mx-auto ">
         <div className={" relative z-50 h-24 select-non w-full"}>
           <div
             className={
